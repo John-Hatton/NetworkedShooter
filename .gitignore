@@ -78,3 +78,6 @@ DerivedDataCache/*
 
 # Rider user specific files
 .idea/
+
+# Don't want RiderLink
+Plugins/Developer/RiderLink/
