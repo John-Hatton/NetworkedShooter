@@ -1,4 +1,27 @@
-# GASShooter
+# Networked Shooter
+
+
+## Introduction
+
+This game was one that I found as I was exploring Unreal Engine 4, and a plugin called the Gameplay Ability System or GAS. This is a highly flexible framework for building the types of abilities and attributes that you might find in an RPG or MOBA title. You can build actions or passive abilities for the characters in your games to use, and status effects that can build up or wear down various attributes as a result of these actions, additionally you can implement "cooldown" timers or resource costs to regulate the usage of these actions, change the level of the ability and its effects at each level, activate particle, sound effects, and more. The Gameplay Ability System can help you to design, implement, and efficiently network in-game abilities from as simple as jumping to as complex as your favorite character's ability set in any modern RPG or MOBA title. 
+
+## Client and Server
+
+For this game, I've created a simple Mansion I found on Sketchup 3dWarehouse. I took the file from there, exported it to FBX, then imported it into Unreal Engine 5 with Nanite turned on. Here's the link for the Map I used. <a href="https://3dwarehouse.sketchup.com/model/u1cb07898-79da-4994-abb2-4497b6624ca2/Two-Story-mansion">Two Story Mansion</a>
+
+I also used the GASShooter Textures and Models as well as boilerplate code to get things going. I only had to make minor changes, for my needs. The build goals of this project include a client/server model, which I got working. With the development version of the build, one could build the server and the client, provided they have UE5 Built from source properly for client and server, then one could host their own games. I've included some binaries of the project. I was not able to get the shipping version of the Server to build, so I've left that out of the binaries, because I have my server running local. If you have troubles with the build, or would like access to the server executable, please feel free to contact me. 
+
+
+
+---
+
+****
+*     Original GASShooter Readme Below:
+****
+
+---
+
+# (ORIGINAL) GASShooter
 
 ## Introduction
 
