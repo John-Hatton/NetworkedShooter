@@ -1,6 +1,6 @@
 # Networked Shooter
 
-![Alt Text](NetworkedShooter.png)
+![Alt Text](NetworkedShooter.jpg)
 
 
 ## Introduction
